@@ -1,0 +1,43 @@
+p{color: rgb(146, 18, 18);}
+
+footer p {background-color: #350205;}
+
+strong { color: bisque;}
+
+.titles {color: rgb(13, 4, 105);}
+
+#logo-img { 
+    width: 100px;
+    height: 100px;
+}
+
+header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:  space-between;
+}
+
+header ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul{
+    gap: 25px;
+}
+
+header{
+    background-color: rgb(90, 131, 108);
+}
+
+
+    header {
+        margin-bottom: 30px;
+        padding-left: 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 20px;
+    }
+
